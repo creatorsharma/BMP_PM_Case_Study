@@ -1,0 +1,11 @@
+ID,Feature,Reach,Impact,Confidence,Effort,RICE
+B1,Search by Area + Filters,1200,3.0,0.8,3.0,960.0
+B2,Slot Calendar + Booking,1200,3.0,0.8,4.0,720.0
+B3,Payments v1,1200,2.0,0.7,3.0,560.0
+B5,Verified Safety Badges,800,2.0,0.7,2.0,560.0
+B8,Referrals & Credits,600,2.0,0.6,2.0,360.0
+B7,Reviews 1.0,700,1.5,0.6,2.0,315.0
+B6,Women-friendly Slots,400,1.5,0.6,1.5,240.0
+B9,Waitlist Auto-fill,400,1.2,0.6,2.0,144.0
+B10,Partner Payout Automation,15,1.2,0.7,2.0,6.3
+B4,Venue Onboarding Portal,15,2.0,0.7,4.0,5.25
