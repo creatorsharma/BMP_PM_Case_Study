@@ -37,10 +37,3 @@ bmp-pm-case-study/
 3. Review **KPI_TREE.md**, **OKRs.md**, **ANALYTICS_PLAN.md** for measurement.
 4. Scan **BACKLOG.csv** and **EXPERIMENTS.md** for prioritization & learning plan.
 
-## Notes
-- Mermaid diagrams are used throughout and render on GitHub.
-- Data points are illustrative where not available; replace with real numbers as you collect them.
-- Pitch deck and research raw notes can be linked in `/assets`.
-
-## License
-MIT
