@@ -5,7 +5,7 @@ This repository showcases my PM thinking, artifacts, and execution plan for **Bo
 > Tagline: *"BookMyPlay: Where Passion Prevails!"*
 
 ## At-a-glance
-- **Pilot traction**: Partnered with 2 schools, ran 3-month turf pilots, earned **INR 4L in revenue**, shared 65% with schools — **profitable from Day 1 without an app or paid marketing**.
+- **Pilot traction**: Partnered with 2 schools, ran 3-month turf pilots, earned **INR 4L in revenue**, shared 70% with schools — **profitable from Day 1 without an app or paid marketing**.
 - **Problem**: Sports grounds are either expensive, far, hard to discover/ book, or feel unsafe for many (esp. women).
 - **Solution**: A local-first booking marketplace for nearby school grounds with flexible slots, transparent pricing, and safety features.
 - **Model**: Commission-based with school partners.
