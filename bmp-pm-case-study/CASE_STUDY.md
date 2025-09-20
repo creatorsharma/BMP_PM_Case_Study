@@ -89,10 +89,10 @@ Assumptions must be tested on pilots with 3–5 schools before scaling.
 
 ## 11) Pilot & Early Traction
 
-To validate supply-demand fit, we partnered with two schools in Delhi NCR:
+To validate supply-demand fit, we partnered with two schools( I cannot disclose the schools names due to potential legal restrictions ) in Delhi NCR:
 
-- **Dayanand Model School**  
-- **Queens Global International School**
+- **ABC Model School**  
+- **XYZ International School**
 
 **Contract Structure:** 3-month agreements with both schools where BMP managed bookings and operations, while schools received **70% of profits**.
 
